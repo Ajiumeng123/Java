@@ -19,5 +19,6 @@
 
 解密:StringTool.UnxorString(“保护后的结果”,保护的key);
 
+检测违禁词:StringTool.DwpString(违禁词数组,需要检测的字符串);
 
 @半城烟火 感谢大家支持
